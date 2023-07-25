@@ -1,3 +1,17 @@
 .bg-green{
     background-color:#1ABC9C ;
 }
+.bg-blue{
+    background-color:#3A546D;
+}
+
+.bg-dark-blue{
+    background-color: #2C3E50;
+}
+
+.as_1{
+    width: 30px;
+    padding-top: 5px;
+    aspect-ratio: 1;
+    padding-right: 1px;
+}
