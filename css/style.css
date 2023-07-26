@@ -9,6 +9,13 @@
     background-color: #2C3E50;
 }
 
+.invert{
+    filter: invert(1);
+}
+.flex-end{
+    justify-content: flex-end;
+}
+
 .as_1{
     width: 30px;
     padding-top: 5px;
